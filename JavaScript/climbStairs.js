@@ -16,7 +16,7 @@ var climbStairs = function(n) {
         return ;
     };
 
-      count (n) ;
+    count (n) ;
 
-      return ctr ;
+    return ctr ;
 };
