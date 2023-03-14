@@ -1,7 +1,7 @@
 # LeetCode
 
-A Collection of LeetCode problems I solved myself.
+a collection of LeetCode problems I solved myself
 
-Separated by language into 3 directories
+separated by language into 3 directories
 
 C# , JavaScript , Typescript
